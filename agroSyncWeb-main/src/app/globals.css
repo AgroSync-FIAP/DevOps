@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 50, 72, 58, 1; 
+  --background-start-rgb: 250, 246, 241, 1; 
+  --background-end-rgb: 250, 246, 241, 1; 
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 50, 72, 58, 1; 
+    --background-start-rgb: 250, 246, 241, 1; 
+    --background-end-rgb: 250, 246, 241, 1; 
+  }
+  /* text, fundo inicio e fundo fim 
+
+  --foreground-rgb: 50, 72, 58, 1; 
+  --background-start-rgb: 250, 246, 241, 1; 
+  --background-end-rgb: 250, 246, 241, 1;
+  
+   --foreground-rgb: 250, 246, 241, 1; 
+    --background-start-rgb: 122, 153, 135, 1; 
+    --background-end-rgb: 122, 153, 135, 1; 
+
+    (174, 193, 182, 1)
+  rgba(250, 246, 241, 1)
+  
+  */
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
