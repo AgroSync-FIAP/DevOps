@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'AgroSync'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8697569E33B47B49D70061CD7A27A17 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_324AC280CA4343F7B85BC4A8FF55005E }}
           package: '*.jar'
