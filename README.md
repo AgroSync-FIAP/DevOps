@@ -28,15 +28,8 @@ Potencial significativo de monetização, incluindo venda de dados e parcerias c
 # Como funciona
 A AgroSync coleta dados precisos sobre o clima e o solo, permitindo que os agricultores tomem decisões informadas sobre a irrigação e nutrição das plantas. Com a integração de dados, a plataforma ajuda os agricultores a otimizar suas operações agrícolas e alcançar uma maior produtividade. Além disso, a AgroSync oferece suporte e orientação personalizada de especialistas agrícolas em tempo real.
 
-# Instalações (Matérias entregues)
-Aqui, você encontrará as entregas das materias e as instruções detalhadas sobre como instalar e executar cada uma das tecnologias em nosso projeto.
-
-## DevOps
- 
-### DDL
-
-[DDL.pdf](https://github.com/AgroSync-FIAP/DevOps/files/12597625/DDL.pdf)
-
+# Instalações
+Aqui, você encontrará instruções detalhadas sobre como instalar e executar cada uma das tecnologias em nosso projeto.
 
 ## Spring Boot
 
@@ -98,6 +91,12 @@ Abra o projeto em sua IDE preferida e execute-o. Certifique-se de ter as depend�
 
 # Como investir
 A AgroSync é uma oportunidade de investimento promissora no mercado agrícola brasileiro, com um potencial significativo de monetização e um mercado em expansão. Para mais informações sobre como investir na AgroSync, entre em contato conosco através do nosso site.
+
+# Integrantes
+- RM94311	Marcos Henrique Bilobram dos Santos
+- RM96320	Nathália de Queiroz Maia
+- RM94972	Rafaela Gomes da Silva
+- RM93613	Vinicius de Oliveira
 
 # Contato
 Para mais informações sobre a AgroSync, [Visite nosso site](https://www.canva.com/design/DAFttqn5Qu0/hA5Vu3mvXgfnydYoT665Gw/view?website#2).
