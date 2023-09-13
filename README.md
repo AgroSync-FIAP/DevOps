@@ -1,3 +1,7 @@
+# DDL
+
+[DDL.pdf](https://github.com/AgroSync-FIAP/DevOps/files/12597625/DDL.pdf)
+
 ## AgroSync 🌱
 
 
@@ -11,10 +15,6 @@ Painel de resultados intuitivo e fácil de usar
 Potencial significativo de monetização, incluindo venda de dados e parcerias com empresas de fertilizantes
 # Como funciona
 A AgroSync coleta dados precisos sobre o clima e o solo, permitindo que os agricultores tomem decisões informadas sobre a irrigação e nutrição das plantas. Com a integração de dados, a plataforma ajuda os agricultores a otimizar suas operações agrícolas e alcançar uma maior produtividade. Além disso, a AgroSync oferece suporte e orientação personalizada de especialistas agrícolas em tempo real.
-
-# DDL
-
-[DDL.pdf](https://github.com/AgroSync-FIAP/DevOps/files/12597625/DDL.pdf)
 
 
 # Como investir
