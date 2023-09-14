@@ -21,7 +21,7 @@ Potencial significativo de monetização, incluindo venda de dados e parcerias c
 
 # Arquitetura
 
-![Imagem do WhatsApp de 2023-09-08 à(s) 17 36 48](https://github.com/AgroSync-FIAP/DevOps/assets/99452621/488d006f-7daf-4047-9c93-505164e3bd9c)
+              ![Imagem do WhatsApp de 2023-09-08 à(s) 17 36 48](https://github.com/AgroSync-FIAP/DevOps/assets/99452621/488d006f-7daf-4047-9c93-505164e3bd9c)
 
 
 # <span style="color: #63C71F;">Tecnologias Utilizadas</span>
