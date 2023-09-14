@@ -10,6 +10,9 @@ A AgroSync é uma plataforma inovadora que oferece gestão inteligente de dados 
 # <span style="color: #63C71F;">DLL Banco de Dados - PDF</span>
 
 
+[DDL.pdf](https://github.com/AgroSync-FIAP/DevOps/files/12612788/DDL.pdf)
+
+
 # <span style="color: #63C71F;">Demonstrações</span>
 Demonstraçõe iniciais das entregas. v.1 após o refatoramento solicitado pelo FIAP. Clique no link ou Video, e você será direcionado ao Youtube.
 
