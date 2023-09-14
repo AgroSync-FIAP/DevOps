@@ -5,6 +5,8 @@ A AgroSync é uma plataforma inovadora que oferece gestão inteligente de dados 
 
 # <span style="color: #63C71F;">Demonstração do <b>back-end</B> na Nuvem Azure - LINK</span>
 
+[Assista ao video](https://1drv.ms/v/s!AkuRYf8aHHUCgX4_5kw_1_bHPgjF)
+
 # <span style="color: #63C71F;">DLL Banco de Dados - PDF</span>
 
 
