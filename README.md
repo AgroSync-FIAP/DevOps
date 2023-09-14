@@ -3,6 +3,10 @@
 
 A AgroSync é uma plataforma inovadora que oferece gestão inteligente de dados agrícolas para ajudar os agricultores a tomar decisões informadas baseadas em dados precisos, maximizando a qualidade da colheita e otimizando a eficiência operacional em até 30%. Com acesso direto a especialistas agrícolas em tempo real, a AgroSync oferece suporte e orientação personalizada para otimizar as operações agrícolas e alcançar uma maior produtividade.
 
+# <span style="color: #63C71F;">Demonstração do <b>back-end</B> na Nuvem Azure - LINK</span>
+
+# <span style="color: #63C71F;">DLL Banco de Dados - PDF</span>
+
 
 # <span style="color: #63C71F;">Demonstrações</span>
 Demonstraçõe iniciais das entregas. v.1 após o refatoramento solicitado pelo FIAP. Clique no link ou Video, e você será direcionado ao Youtube.
