@@ -35,11 +35,15 @@ Demonstrações das entregas Projeto Final após o refatoramento solicitado pelo
           
 </div>
 
-# Obervação
+# Obervação e Resultado do Web App
 
 ![image](https://github.com/AgroSync-FIAP/DevOps/assets/99452621/b40e8fc2-0aa2-4490-a525-cd731962f810)
 
 O pedido de Paralelism mesmo com o pedido realizado dias antes não obteve retorno fazendo com que o fluxo de dados da pipeline não tenha sido concluído, porém todo restante obteve suas funcionlidades, observando também que não houve carga de dados no banco por isso que a consulta vem vazia.
+
+- Resultado da API
+![image](https://github.com/AgroSync-FIAP/DevOps/assets/99452621/87926bb0-2969-45c1-a584-6507a3203806)
+
 
 
 # Funcionalidades
