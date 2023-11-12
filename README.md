@@ -9,6 +9,17 @@ A AgroSync é uma plataforma inovadora que oferece gestão inteligente de dados 
 - RM94972	Rafaela Gomes da Silva
 - RM93613	Vinicius de Oliveira
 
+# Fluxo de Dados - PIPELINE
+
+![WhatsApp Image 2023-11-12 at 12 55 47](https://github.com/AgroSync-FIAP/DevOps/assets/99452621/1cf410cd-f218-4345-9c0c-c58fc34790a0)
+
+Uma pipeline de DevOps baseado em push para um aplicativo Web App de uma camada, uma API em SpringBoot. Esse pipeline usa GitHub Actions para compilação e implantação. O fluxo de dados neste cenário ocorre da seguinte forma:
+
+O código da API é desenvolvido.
+O código da API é confirmado em um repositório git do GitHub.
+GitHub Actions envia o código da API por meio de push para dentro do Web App.
+Um trabalho GitHub Actions implanta ou envia por push a API, conforme descrito nos arquivos para implantar no Web App.
+
 # <span style="color: #63C71F;">Demonstrações</span>
 Demonstrações das entregas Projeto Final após o refatoramento solicitado pelo FIAP e a conclução do projeto.
 *Clique no Video.*
