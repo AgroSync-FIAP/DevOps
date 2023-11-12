@@ -20,6 +20,7 @@ O código da API é confirmado em um repositório git do GitHub.
 GitHub Actions envia o código da API por meio de push para dentro do Web App.
 Um trabalho GitHub Actions implanta ou envia por push a API, conforme descrito nos arquivos para implantar no Web App.
 
+
 # <span style="color: #63C71F;">Demonstrações</span>
 Demonstrações das entregas Projeto Final após o refatoramento solicitado pelo FIAP e a conclução do projeto.
 *Clique no Video.*
@@ -33,6 +34,12 @@ Demonstrações das entregas Projeto Final após o refatoramento solicitado pelo
 
           
 </div>
+
+# Obervação
+
+![image](https://github.com/AgroSync-FIAP/DevOps/assets/99452621/b40e8fc2-0aa2-4490-a525-cd731962f810)
+
+O pedido de Paralelism mesmo com o pedido realizado dias antes não obteve retorno fazendo com que o fluxo de dados da pipeline não tenha sido concluído, porém todo restante obteve suas funcionlidades, observando também que não houve carga de dados no banco por isso que a consulta vem vazia.
 
 
 # Funcionalidades
