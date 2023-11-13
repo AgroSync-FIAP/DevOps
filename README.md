@@ -9,6 +9,19 @@ A AgroSync é uma plataforma inovadora que oferece gestão inteligente de dados 
 - RM94972	Rafaela Gomes da Silva
 - RM93613	Vinicius de Oliveira
 
+
+# <span style="color: #63C71F;">Demonstrações</span>
+Demonstrações das entregas Projeto Final após o refatoramento solicitado pelo FIAP e a conclução do projeto.
+*Clique no Video.*
+
+# Video Principal - Simulação completa
+
+<br> <a href="https://youtu.be/6bDD_93EuuA"><img alt="image" height="200" width="400" src="https://github.com/natmaia/arquivosFotosReadme/blob/main/Captura%20de%20tela%202023-11-13%20103416.png"></a> <br> <br> *Clique no video e será direcionado ao Youtube*
+
+# Video da IA - Simulação chat e leitura de solo
+
+<br> <a href="https://youtu.be/i9fo51yoB3I"><img alt="image" height="200" width="410" src="https://github.com/natmaia/arquivosFotosReadme/blob/main/Captura%20de%20tela%202023-11-13%20103653.png"></a> <br> <br> *Clique no video e será direcionado ao Youtube*
+
 # Fluxo de Dados - PIPELINE
 
 ![WhatsApp Image 2023-11-12 at 12 55 47](https://github.com/AgroSync-FIAP/DevOps/assets/99452621/1cf410cd-f218-4345-9c0c-c58fc34790a0)
@@ -22,29 +35,17 @@ Uma pipeline de DevOps baseado em push para um aplicativo Web App de uma camada,
 Um trabalho GitHub Actions implanta ou envia por push a API, conforme descrito nos arquivos para implantar no Web App.
 
 
-# <span style="color: #63C71F;">Demonstrações</span>
-Demonstrações das entregas Projeto Final após o refatoramento solicitado pelo FIAP e a conclução do projeto.
-*Clique no Video.*
+
 
 | Plataforma da demonstração | O que será demonstrado | Link de acesso
 | -------------------------- | --------------- | --------------------------
 |  <br> <img align="center" alt="weplant-react" height="40" width="12%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> Aplicação Mobile | Nessa demonstração veremos a utilização <br> completa do App final, com foco na Analise de solo. |  <br> <a href="https://youtu.be/gAff578VQNM"><img alt="image" height="200" width="310" src="https://github.com/AgroSync-FIAP/Hybrid-Mobile-App-Development/blob/main/Captura%20de%20tela%202023-09-13%20145713.png"></a> <br> <br> *Clique no video e será direcionado ao Youtube*
 |  <br> <img align="center" alt="weplant-springboot" height="40" width="12%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> Back-end <br> <img align="center" alt="weplant-next" height="40" width="12%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" text="white" />  Web | Demonstração do projeto Final da Aplicação, <br> com explicação do projeto  e comentario sobre <br> erros, acertos e aprendizados  que tivemos durante o desenvolvimento do projeto. | <br> <a href="https://youtu.be/gAff578VQNM"><img alt="image" height="200" width="310" src="https://github.com/AgroSync-FIAP/Hybrid-Mobile-App-Development/blob/main/Captura%20de%20tela%202023-09-13%20145713.png"></a> <br> <br> *Clique no video e será direcionado ao Youtube*
-| <br> <img align="center" alt="weplant-azure" height="40" width="12%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" /> Azure | Demonstração do <b>back-end</B> na Nuvem Azure - LINK e <br> DLL Banco de Dados - PDF  | [Assista ao video](https://fiapcom-my.sharepoint.com/:v:/g/personal/rm94972_fiap_com_br/EZDXjX3oL-5Dv9wzfmDHB3UBBOZF5l8G7wJ_YpxhR64wog?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=hyEH2i) <br/> [Baixar arquivo DDL.pdf](https://github.com/AgroSync-FIAP/DevOps/files/12612788/DDL.pdf)|
-| <br>  <img align="center" alt="weplant-azure" height="40" width="12%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" /> Azure | Link do repositório Azure | [Azure DevOps](https://dev.azure.com/AgroSync-DevOps/AgroSync) | 
+| <br> Azure | Demonstração do <b>back-end</B> na Nuvem Azure - LINK e <br> DLL Banco de Dados - PDF  | [Assista ao video](https://1drv.ms/v/s!AkuRYf8aHHUCgX4_5kw_1_bHPgjF) <br>  [Baixar arquivo DDL.pdf](https://github.com/AgroSync-FIAP/DevOps/files/12612788/DDL.pdf) |
+
 
           
 </div>
-
-# Obervações do vídeo e Resultado do Web App
-
-![image](https://github.com/AgroSync-FIAP/DevOps/assets/99452621/b40e8fc2-0aa2-4490-a525-cd731962f810)
-
-O pedido de Paralelism mesmorealizado dias antes não obteve retorno fazendo com que o fluxo de dados da pipeline não tenha sido concluído, porém todo restante obteve suas funcionlidades, observe que o banco não tem alimentação por isso que a consulta vem vazia.
-
-- Resultado da API
-![image](https://github.com/AgroSync-FIAP/DevOps/assets/99452621/87926bb0-2969-45c1-a584-6507a3203806)
-
 
 
 # Funcionalidades
@@ -60,8 +61,10 @@ Potencial significativo de monetização, incluindo venda de dados e parcerias c
 <div align="center">
     <img align="center" alt="weplant-mysql" height="40" width="12%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align="center" alt="weplant-java" height="40" width="12%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+    <img align="center" alt="weplant-react" height="40" width="12%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img align="center" alt="weplant-springboot" height="40" width="12%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-    <img align="center" alt="weplant-azure" height="40" width="12%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+    <img align="center" alt="weplant-python" height="40" width="12%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+    <img align="center" alt="weplant-next" height="40" width="12%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
     
 </div>
 
